@@ -1,4 +1,4 @@
-## This is [project.Makefile] …
+## This is seminarFiles
 
 ## This section is for Dushoff-style vim-setup and vim targeting
 ## You can delete it if you don't want it
@@ -9,7 +9,23 @@ Ignore = target.mk
 vim_session:
 	bash -ic "vmt"
 
+Sources += $(wildcard *.md)
+
 ## -include makestuff/perl.def
+
+## announce.seminar.html: announce.seminar announce.md
+## reminder.seminar.html: reminder.seminar reminder.md
+Ignore += *.seminar.html
+%.seminar.html: %.seminar
+	pandoc -t html $< > $@
+
+Sources += $(wildcard *.seminar)
+.PRECIOUS: %.seminar
+%.seminar: %.md
+	$(copy)
+
+clear:
+	git rm $(wildcard *.seminar)
 
 ######################################################################
 
