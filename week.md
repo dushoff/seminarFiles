@@ -1,19 +1,15 @@
+host.html: host.seminar host.md
+exiter.html: exiter.seminar exiter.md
 
-Next week's seminar inquiry ## Seminar
-* seminar/host.md ## advice
-* seminar/exiter.md ## questions
+reminder.html: reminder.seminar reminder.md
 
-seminar/reminder.md
+food.html: food.seminar food.md ## for organizers
 
-Food organization  ## Seminar
+pizza.html: pizza.seminar pizza.md ## announce yes OR no
 
-Pizza announcement (either way!) ## Seminar
+Announcement to Susan and Michelle ##
 
-Seminar
+announce.html: announce.seminar announce.md
 
-Announcement to Susan and Michelle ## Seminar
-
-Announcement to department ## Seminar
-
-seminar/week.md
+week.md
 

@@ -1,10 +1,6 @@
-
 TODO
 
 ## Weekly
-
-Pizza announcement (either way!) ## Seminar
-* pizza.md
 
 Seminar
 
