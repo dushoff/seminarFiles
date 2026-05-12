@@ -3,12 +3,8 @@ TODO
 
 ## Weekly
 
-reminder.new:
-reminder.html: reminder.seminar
-
-Food organization  ## Seminar
-
 Pizza announcement (either way!) ## Seminar
+* pizza.md
 
 Seminar
 
@@ -16,7 +12,7 @@ Announcement to Susan and Michelle ## Seminar
 
 Announcement to department ## Seminar
 
-seminar/week.md
+week.md
 
 ## Yearly
 
