@@ -1,31 +1,46 @@
 ## This is seminarFiles
+## Meant to replace the seminar* parts of Planning
 
-## This section is for Dushoff-style vim-setup and vim targeting
-## You can delete it if you don't want it
 current: target
 -include target.mk
 Ignore = target.mk
 
 vim_session:
-	bash -ic "vmt"
+	bash -ic "vmt README.md TODO.md"
 
 Sources += $(wildcard *.md)
 
 ## -include makestuff/perl.def
 
-## announce.seminar.html: announce.seminar announce.md
-## reminder.seminar.html: reminder.seminar reminder.md
-Ignore += *.seminar.html
-%.seminar.html: %.seminar
+######################################################################
+
+## announce.html: announce.seminar announce.md
+## announce.new:
+
+## reminder.html: reminder.seminar reminder.md
+## reminder.new:
+
+## exiter.seminar: exiter.md
+## exiter.new
+
+Ignore += *.html
+%.html: %.seminar
 	pandoc -t html $< > $@
 
 Sources += $(wildcard *.seminar)
 .PRECIOUS: %.seminar
-%.seminar: %.md
-	$(copy)
+%.seminar: | %.md
+	$(pipecopy)
 
-clear:
-	git rm $(wildcard *.seminar)
+%.new:
+	$(RM) $*.seminar
+
+######################################################################
+
+## Crib
+
+%.md: | ../Planning/seminar/%.md
+	$(pipecopy)
 
 ######################################################################
 
