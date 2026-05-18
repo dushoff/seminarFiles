@@ -1,3 +1,4 @@
+Next week!! 
 host.html: host.seminar host.md
 exiter.html: exiter.seminar exiter.md
 
