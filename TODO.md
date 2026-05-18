@@ -4,11 +4,21 @@ TODO
 
 Seminar
 
-Announcement to Susan and Michelle ## Seminar
+host.html: host.seminar host.md
+exiter.html: exiter.seminar exiter.md
 
-Announcement to department ## Seminar
+reminder.html: reminder.seminar reminder.md
+
+food.html: food.seminar food.md ## for organizers
+
+pizza.html: pizza.seminar pizza.md ## announce yes OR no
+
+Announcement to Susan and Michelle ##
+
+announce.html: announce.seminar announce.md
 
 week.md
+
 
 ## Yearly
 

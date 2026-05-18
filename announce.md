@@ -1,6 +1,6 @@
 Don't edit the .md file
 
-/[A-Z][A-Z][A-Z][A-Z]
+[A-Z][A-Z][A-Z][A-Z]
 
 Biology seminar series, SPEAKER
 
