@@ -19,9 +19,13 @@ Sources += $(wildcard *.md)
 
 ## reminder.html: reminder.seminar reminder.md
 ## reminder.new:
+## https://mail.google.com/mail/u/0/#scheduled
 
 ## exiter.seminar: exiter.md
 ## exiter.new
+
+## pizza.new:
+## pizza.html: pizza.seminar pizza.md
 
 Ignore += *.html
 %.html: %.seminar
