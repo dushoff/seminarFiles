@@ -17,7 +17,6 @@ announce.html: announce.seminar announce.md
 
 week.md
 
-
 ## Yearly
 
 Build from timeline.md!
