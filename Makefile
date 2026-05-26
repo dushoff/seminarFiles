@@ -24,6 +24,9 @@ Sources += $(wildcard *.md)
 ## exiter.seminar: exiter.md
 ## exiter.new
 
+## food.new:
+## food.html: food.seminar food.md
+
 ## pizza.new:
 ## pizza.html: pizza.seminar pizza.md
 
