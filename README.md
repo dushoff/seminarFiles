@@ -1,4 +1,7 @@
 
+F2027
+* https://docs.google.com/spreadsheets/d/1VyqXMOl7Xqn09eixtcesnDRB2xuy4eowqU_6z8zVrDY/edit?gid=0#gid=0
+
 F2026
 * https://drive.google.com/drive/folders/1j8Zca6yaL3X0kYrO9CIIsyFPMAcx4RUf
 * https://docs.google.com/spreadsheets/d/1ep9Kj2lsJT2NRHcyEIm1e-W-mYNaqa9A3TC59bYcjhA/edit
