@@ -10,7 +10,7 @@ vim_session:
 
 Sources += $(wildcard *.md)
 
-## -include makestuff/perl.def
+-include makestuff/perl.def
 
 ######################################################################
 
