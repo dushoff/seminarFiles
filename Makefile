@@ -6,11 +6,15 @@ current: target
 Ignore = target.mk
 
 vim_session:
-	bash -ic "vmt README.md TODO.md notes.md"
+	bash -ic "vmt README.md TODO.md index.md notes.md"
 
 Sources += $(wildcard *.md)
 
 ## -include makestuff/perl.def
+
+######################################################################
+
+## index.filemerge: index.md
 
 ######################################################################
 
