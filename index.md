@@ -11,6 +11,8 @@ week.md
 notes.md
 techNotes.md
 
+annual.md
+
 announce.md
 announce.html
 announce.seminar
