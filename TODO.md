@@ -1,10 +1,10 @@
-TODO
 
-July: reach out about speakers (waiting to hear back about associates, otherwise add Paul, David, Reuven, Sigal).
+Curate files from elsewhere and make a nice structure
 
-* annual.md
-
-Ask for faculty nominations, faculty volunteers, exiters
+* Email d-biolfa facultyRequest.md
+* Forward to associates.md
+* Check about sparkuhl
+* Ask about exiters
 
 Get back to September postponers
 

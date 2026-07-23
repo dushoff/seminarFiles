@@ -29,10 +29,12 @@ room.md
 timeline.md
 fNom something?
 
+facultyRequest.md
+
 ######################################################################
 
 ## Planning notes 2026 May 22 (Fri)
-seminar/fNomRequest.md
+
 
 ## Todo
 
