@@ -1,16 +1,14 @@
 
-Curate files from elsewhere and make a nice structure
-
-* Email d-biolfa facultyRequest.md
-* Forward to associates.md
 * Check about sparkuhl
+* Check about EDII
 * Ask about exiters
+Reach out to BGSS … 
+
+## August
 
 Get back to September postponers
 
 Curate files from elsewhere and make a nice structure
-
-Reach out to colleagues
 
 week.md
 
