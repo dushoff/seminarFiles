@@ -14,7 +14,5 @@ Reach out to colleagues
 
 week.md
 
-## Yearly
-
-Build from timeline.md!
+year.md ##
 

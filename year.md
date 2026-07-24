@@ -19,7 +19,7 @@ July:
 
 Reach out to colleagues
 
-August:
+## August
 
 Get back to September postponers
 
@@ -32,7 +32,8 @@ Contact other parties
 
 No Sparkuhl seminar in odd-numbered FY; little EDII money this year.
 
-## Yearly
+## September
 
-Build from timeline.md!
+## October
 
+year.md
