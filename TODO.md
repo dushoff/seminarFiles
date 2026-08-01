@@ -1,6 +1,4 @@
 
-* Check about sparkuhl
-* Check about EDII
 * Ask about exiters
 Reach out to BGSS … 
 
@@ -11,6 +9,10 @@ Get back to September postponers
 Curate files from elsewhere and make a nice structure
 
 ## September
+
+Sparkuhl followup Ian and Brian? Or try Rebecca and Marie if no answers/
+
+* EDI followup Lovaye
 
 week.md
 
