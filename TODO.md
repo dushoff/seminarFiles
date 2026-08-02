@@ -5,6 +5,10 @@ Reach out to BGSS …
 Elyanne M. Ratcliffe 
 * How about I nominate myself. I would love to connect with my Biology colleagues and I have a talk prepared with our work related to cannabis in utero and developmental programming of the gut-brain axis.
 
+Who are other nominees?
+
+Faculty nudge
+
 Get back to September postponers
 
 Curate files from elsewhere and make a nice structure
