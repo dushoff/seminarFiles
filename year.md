@@ -5,6 +5,8 @@ Batstone timeline
 
 make room reservations 
 
+Sparkuhl lecture Even numbered FY (next one in 27-28)
+
 ## July
 
 Reach out to BGSS … 

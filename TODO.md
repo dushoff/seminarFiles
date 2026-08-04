@@ -2,12 +2,7 @@
 * Ask about exiters
 Reach out to BGSS … 
 
-Elyanne M. Ratcliffe 
-* How about I nominate myself. I would love to connect with my Biology colleagues and I have a talk prepared with our work related to cannabis in utero and developmental programming of the gut-brain axis.
-
-Who are other nominees?
-
-Faculty nudge
+Faculty reminder Mon 10 Aug
 
 Get back to September postponers
 
@@ -23,8 +18,6 @@ Nicole Mideo
 Alison Hill
 
 ## September
-
-Sparkuhl followup Ian and Brian? Or try Rebecca and Marie if no answers
 
 * EDI followup Lovaye
 

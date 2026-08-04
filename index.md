@@ -6,6 +6,9 @@ README.md
 TODO.md
 index.md
 
+## Churn
+nominees.md
+
 ## Periodic
 timeline.md
 week.md
