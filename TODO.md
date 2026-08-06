@@ -8,7 +8,7 @@ Get back to September postponers
 
 Curate files from elsewhere and make a nice structure
 
-Reach out to EDI responder about Heidi Swanson recommended by Sigal
+Reach out to Lovaye about Heidi Swanson 
 * Heidi Swanson Laurier (Waterloo)
 
 Sharmistha
@@ -18,8 +18,6 @@ Nicole Mideo
 Alison Hill
 
 ## September
-
-* EDI followup Lovaye
 
 week.md
 
