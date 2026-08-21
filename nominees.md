@@ -14,3 +14,19 @@ Fahnestock:
 Simsek:
 Ashley Libby
 
+----------------------------------------------------------------------
+
+
+Sharmistha
+* Korryn Bodner
+
+Shinichi Nakagawa
+* Ian is working on this one
+
+Vanessa E.
+
+Tallulah Andrews
+
+Dushoff?
+
+

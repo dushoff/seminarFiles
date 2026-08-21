@@ -8,11 +8,12 @@ index.md
 
 ## Churn
 nominees.md
+nominators.md
+exiterList.md
 
 ## Periodic
-timeline.md
+year.md
 week.md
-annual.md
 
 ## For presentation
 techNotes.md
@@ -25,7 +26,7 @@ associates.md
 ## Comms
 
 announce.md
-MISSING: announce.html
+announce.html
 announce.seminar
 
 exiter.md
@@ -35,15 +36,25 @@ food.md
 food.seminar
 
 host.md
-MISSING: host.html
+host.html
 host.seminar
 
 pizza.md
 pizza.seminar
+pizza.html
 
 reminder.html
 reminder.md
 reminder.seminar
+
+colleague.md
+
+#### Special
+
+Compare and contrast these
+* bgssInvitee.md
+* keynote.md
+
 
 ######################################################################
 
@@ -54,7 +65,8 @@ go.log
 index.lsd
 up.time
 
-### Untracked files ### (2)
+make.log
 
-* make.log
-* announce.seminar.html
+### Untracked files ### (3)
+
+* facultyRequest.md

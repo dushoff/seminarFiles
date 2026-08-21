@@ -1,5 +1,6 @@
 
-* Ask about exiters
+Email exiters
+
 Reach out to BGSS … 
 
 Faculty reminder Mon 10 Aug

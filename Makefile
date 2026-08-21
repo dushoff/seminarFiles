@@ -1,5 +1,4 @@
 ## This is seminarFiles
-## Meant to replace the seminar* parts of Planning
 
 current: target
 -include target.mk
