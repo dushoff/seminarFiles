@@ -1,13 +1,7 @@
 
-Email exiters
-
 Reach out to BGSS … 
 
 Faculty reminder Mon 10 Aug
-
-Get back to September postponers
-
-Curate files from elsewhere and make a nice structure
 
 Reach out to Lovaye about Heidi Swanson 
 * Heidi Swanson Laurier (Waterloo)
