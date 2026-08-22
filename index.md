@@ -14,6 +14,7 @@ exiterList.md
 ## Periodic
 year.md
 week.md
+exiterFall.md
 
 ## For presentation
 techNotes.md

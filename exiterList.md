@@ -1,13 +1,10 @@
-
-Dear Student:
-
-You are receiving this email because you are a senior Ph.D., and seem likely to want (or need) to give an exit seminar this year.
-
-Please let me know some dates that work for you, or else let me know if you are _not_ expecting to give your exit seminar this year. You can see a draft schedule here.
-
-If you can talk in September, you will help get the series off to a strong start 🙂
-
-Best,
-
-
-
+Hanad Adan	ADANHA2@MCMASTER.CA
+Quinn Allamby	ALLAMBYQ@MCMASTER.CA
+Natassja Brien	BRIENN2@MCMASTER.CA
+Jon Fast	FASTJJ@MCMASTER.CA
+Megan Hitchcock	HITCHCM@MCMASTER.CA
+Isabella Ippolito	IPPOLITI@MCMASTER.CA
+Quin Mann	MANNQ@MCMASTER.CA
+Allyson Peek	PEEKA1@MCMASTER.CA
+Allan Roberts	ROBERA64@MCMASTER.CA
+Veronica Thorn	THORNV2@MCMASTER.CA
