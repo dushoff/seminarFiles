@@ -1,6 +1,4 @@
 
-Reach out to BGSS … 
-
 Faculty reminder Mon 10 Aug
 
 Reach out to Lovaye about Heidi Swanson 
