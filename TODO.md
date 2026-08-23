@@ -1,9 +1,5 @@
 
-<<<<<<< HEAD
 Faculty follow-ups
-=======
-Faculty reminder Mon 10 Aug
->>>>>>> c9704bac0e741f4267af964503e9a3956bd69494
 
 Reach out to Lovaye about Heidi Swanson 
 * Heidi Swanson Laurier (Waterloo)
