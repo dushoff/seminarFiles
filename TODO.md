@@ -1,7 +1,5 @@
 
-Reach out to BGSS … 
-
-Faculty reminder Mon 10 Aug
+Faculty follow-ups
 
 Reach out to Lovaye about Heidi Swanson 
 * Heidi Swanson Laurier (Waterloo)
@@ -11,6 +9,8 @@ Sharmistha
 Nicole Mideo
 
 Alison Hill
+
+BGSS follow-up
 
 ## September
 

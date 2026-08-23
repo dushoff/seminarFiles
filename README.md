@@ -1,11 +1,12 @@
 
 F2027 (folder/planning/sharing)
 * https://drive.google.com/drive/folders/1poBR0wpcMSmR8HFFmKHg_MyspfDpSkjE
-* https://docs.google.com/spreadsheets/d/1VyqXMOl7Xqn09eixtcesnDRB2xuy4eowqU_6z8zVrDY/edit?gid=0#gid=0
+* https://docs.google.com/spreadsheets/d/1VyqXMOl7Xqn09eixtcesnDRB2xuy4eowqU_6z8zVrDY/
+* https://docs.google.com/spreadsheets/d/1LXJmXM6Ad7YhmcmFdn8P7MFfyNAQyCVwmmWKi13APS8/
 
 F2026
 * https://drive.google.com/drive/folders/1j8Zca6yaL3X0kYrO9CIIsyFPMAcx4RUf
-* https://docs.google.com/spreadsheets/d/1ep9Kj2lsJT2NRHcyEIm1e-W-mYNaqa9A3TC59bYcjhA/edit
+* https://docs.google.com/spreadsheets/d/1ep9Kj2lsJT2NRHcyEIm1e-W-mYNaqa9A3TC59bYcjhA/
 
 ----------------------------------------------------------------------
 
@@ -69,7 +70,7 @@ Seminar course currently (Fall 2025) run by Susan
 ## Get the faculty list from the web to remind non-responders
 
 nominees 2024 spreadsheet may contain ideas
-* https://docs.google.com/spreadsheets/d/1aT15lG1Jjrj-raXbo6XYAAXNC8uJdUMsJVaFhUjmPb4/edit#gid=0
+* https://docs.google.com/spreadsheets/d/1aT15lG1Jjrj-raXbo6XYAAXNC8uJdUMsJVaFhUjmPb4/
 
 * seminar/colleagues.md
 * seminar/nominators.md
@@ -102,7 +103,7 @@ Bioseminar26
 Bioseminar25
 * https://drive.google.com/drive/folders/1-jyiV2kGiUwnxljCJCtXY5u0dnD_HJmg
 * Schedule:
-   * https://docs.google.com/spreadsheets/d/1BATtj9sXm1QxBWvZniMJOMMFiJcfDHNxvW8zFv0HQ3o/edit?gid=0#gid=0
+   * https://docs.google.com/spreadsheets/d/1BATtj9sXm1QxBWvZniMJOMMFiJcfDHNxvW8zFv0HQ3o/
 
 Bioseminar24
 * https://drive.google.com/drive/folders/1YG1RCnGnXCTbn-jSO3-dXSy513glnPni
