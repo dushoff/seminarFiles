@@ -9,6 +9,7 @@ index.md
 ## Churn
 nominees.md
 nominators.md
+nonMinators.md
 exiterList.md
 
 ## Periodic
