@@ -5,7 +5,7 @@ Thanks! Please go ahead and invite.
 
 It is always appreciated if you can invite people for early dates.
 
-Feel free to share [the live schedule](https://docs.google.com/spreadsheets/d/1LXJmXM6Ad7YhmcmFdn8P7MFfyNAQyCVwmmWKi13APS8/) with your invitees. Once you've found a date, please confirm with me promptly so that we can reduce the risk of date conflicts. Conflicts are rare, but please do make the speaker aware that I date is not confirmed until I confirm it.
+Feel free to share [the live schedule](https://docs.google.com/spreadsheets/d/1LXJmXM6Ad7YhmcmFdn8P7MFfyNAQyCVwmmWKi13APS8/) with your invitees. Once you've found a date, please confirm with me promptly so that we can reduce the risk of date conflicts. Conflicts are rare, but please do make the speaker aware that a date is not final until I confirm it.
 
 If there's a speaker who can't make any of the open dates work, please send me some proposed dates and I will see if I can negotiate with any of our local speakers or if it makes sense to open up a closed date.
 
