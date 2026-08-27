@@ -1,10 +1,6 @@
 
-Faculty follow-ups
-
 Reach out to Lovaye about Heidi Swanson 
 * Heidi Swanson Laurier (Waterloo)
-
-Sharmistha
 
 Nicole Mideo
 
