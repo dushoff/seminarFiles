@@ -1,6 +1,4 @@
 
-* facultyRequest.md
-* notes.md
 
 update: index.filemerge
 
@@ -19,6 +17,8 @@ exiterList.md
 year.md
 week.md
 exiterFall.md
+facultyRequest.md
+notes.md
 
 ## For presentation
 techNotes.md
