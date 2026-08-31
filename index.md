@@ -55,8 +55,6 @@ colleague.md
 
 Compare and contrast these
 * bgssInvitee.md
-* keynote.md
-
 
 ######################################################################
 
@@ -72,3 +70,5 @@ make.log
 ### Untracked files ### (3)
 
 * facultyRequest.md
+* keynote.md
+* notes.md
