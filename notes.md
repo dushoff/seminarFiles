@@ -11,5 +11,6 @@ Where to have pizza?
 
 Whether to add a social hour (check bookings)
 * Stage from BSB?
+* Right now we have mostly HSC
 
 Other sources of money

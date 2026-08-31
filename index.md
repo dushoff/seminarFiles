@@ -1,4 +1,7 @@
 
+* facultyRequest.md
+* notes.md
+
 update: index.filemerge
 
 ## Basic
@@ -55,6 +58,7 @@ colleague.md
 
 Compare and contrast these
 * bgssInvitee.md
+* keynote.md
 
 ######################################################################
 
@@ -66,9 +70,3 @@ index.lsd
 up.time
 
 make.log
-
-### Untracked files ### (3)
-
-* facultyRequest.md
-* keynote.md
-* notes.md
