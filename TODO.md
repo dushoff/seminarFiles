@@ -1,7 +1,4 @@
 
-nominator follow-up
-
-Sharmistha follow-up
 
 Reach out to Lovaye about Heidi Swanson 
 * Heidi Swanson Laurier (Waterloo)
@@ -27,31 +24,23 @@ announce.html: announce.seminar announce.md
 
 week.md
 
+0915 Sharmistha follow-up
 
-## April
+0401 make room reservations 
 
-make room reservations 
+0701 Reach out to BGSS … 
 
-## July
+0701 Email d-biolfa facultyRequest.md
+* Forward to associates.md
+* Check about sparkuhl (Ian, Brian)
+* Check about EDII (Lovaye)
 
-Reach out to BGSS … 
-Email d-biolfa facultyRequest.md
-Forward to associates.md
-Check about sparkuhl (Ian, Brian)
-Check about EDII (Lovaye)
-Ask about exiters
+0801 Ask about exiters
+* Get back to September postponers
 
-## August
+0901 Restart week.md
 
-Get back to September postponers
-
-Start week.md
-
-Faculty about Workshops
-
-## September
-
-## October
+1001 Faculty about Workshops
 
 year.md
 
