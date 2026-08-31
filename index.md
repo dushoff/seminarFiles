@@ -8,16 +8,15 @@ TODO.md
 index.md
 
 ## Churn
+facultyRequest.md
 nominees.md
 nominators.md
 nonMinators.md
-exiterList.md
 
 ## Periodic
 year.md
 week.md
 exiterFall.md
-facultyRequest.md
 notes.md
 
 ## For presentation

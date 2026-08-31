@@ -1,4 +1,8 @@
 
+nominator follow-up
+
+Sharmistha follow-up
+
 Reach out to Lovaye about Heidi Swanson 
 * Heidi Swanson Laurier (Waterloo)
 
@@ -8,9 +12,21 @@ Alison Hill
 
 BGSS follow-up
 
-## September
+host.md
+exiter.html: exiter.seminar exiter.md
+
+reminder.html: reminder.seminar reminder.md
+
+food.html: food.seminar food.md ## for organizers
+
+pizza.html: pizza.seminar pizza.md ## announce yes OR no
+
+Announcement to Susan and Michelle ##
+
+announce.html: announce.seminar announce.md
 
 week.md
+
 
 ## April
 

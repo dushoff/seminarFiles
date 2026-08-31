@@ -1,9 +1,9 @@
 
-Don't edit .md
-
 CHECK
 
-:%s/GUEST/Dr. Robertson/g
+:%s/GUEST/Dr. Bidochka/g
+:%s/ROOM/1A5/g
+:%s/HOST/JP/g
 
 :%s/hse/she/g
 :%s/their/her/g
@@ -12,8 +12,6 @@ CHECK
 :%s/hse/he/g
 :%s/their/his/g
 :%s/them/him/g
-
-HOST
 
 Dear HOST:
 
@@ -35,7 +33,7 @@ Please let me know in advance if you want me to help with a â€œpre-introductionâ
 
 CHECK Note that we were not able to get our usual room, sorry!
 
-Please plan for GUEST to arrive in HSC 1A4 around 3:45 to make sure that the audiovisual is all ready to go. One or more graduate helpers should be there by that time. Ideally, hse would bring their talk on both a laptop and on a USB key, but if that's not convenient, we will find solutions.
+Please plan for GUEST to arrive in ROOM by 3:45 or earlier. In addition to setting up AV, we are trying to have a social period before the seminar. Ideally, GUEST would bring their talk on both a laptop and on a USB key, but if that's not convenient, we will find solutions.
 
 Best,
 
