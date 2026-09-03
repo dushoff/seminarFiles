@@ -1,6 +1,4 @@
 
-* facultyRequest.md
-* notes.md
 
 update: index.filemerge
 
@@ -10,15 +8,16 @@ TODO.md
 index.md
 
 ## Churn
+facultyRequest.md
 nominees.md
 nominators.md
 nonMinators.md
-exiterList.md
 
 ## Periodic
 year.md
 week.md
 exiterFall.md
+notes.md
 
 ## For presentation
 techNotes.md

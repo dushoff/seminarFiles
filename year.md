@@ -1,33 +1,20 @@
 Batstone timeline
 * https://docs.google.com/document/d/1iW9LF6sUXUOLSPVddkZjpTAVPCmyhlahq_C7f-onTmM
 
-## April
+0401 make room reservations 
 
-make room reservations 
+0701 Reach out to BGSS … 
 
-Sparkuhl lecture Even numbered FY (next one in 27-28)
+0701 Email d-biolfa facultyRequest.md
+* Forward to associates.md
+* Check about sparkuhl (Ian, Brian)
+* Check about EDII (Lovaye)
 
-## July
+0801 Ask about exiters
+* Get back to September postponers
 
-Reach out to BGSS … 
-Email d-biolfa facultyRequest.md
-Forward to associates.md
-Check about sparkuhl (Ian, Brian)
-Check about EDII (Lovaye)
-Ask about exiters
+0901 Restart week.md
 
-## August
-
-Get back to September postponers
-
-Start week.md
-
-Faculty about Workshops
-
-## September
-
-## October
-
-## January
+1001 Faculty about Workshops
 
 year.md

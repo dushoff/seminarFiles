@@ -1,4 +1,5 @@
 
+
 Reach out to Lovaye about Heidi Swanson 
 * Heidi Swanson Laurier (Waterloo)
 
@@ -8,7 +9,18 @@ Alison Hill
 
 BGSS follow-up
 
-## September
+host.md
+exiter.html: exiter.seminar exiter.md
+
+reminder.html: reminder.seminar reminder.md
+
+food.html: food.seminar food.md ## for organizers
+
+pizza.html: pizza.seminar pizza.md ## announce yes OR no
+
+Announcement to Susan and Michelle ##
+
+announce.html: announce.seminar announce.md
 
 Next week!! 
 host.html: host.seminar host.md
@@ -28,30 +40,23 @@ Network about Shinichi
 
 week.md
 
-## April
+0915 Sharmistha follow-up
 
-make room reservations 
+0401 make room reservations 
 
-## July
+0701 Reach out to BGSS … 
 
-Reach out to BGSS … 
-Email d-biolfa facultyRequest.md
-Forward to associates.md
-Check about sparkuhl (Ian, Brian)
-Check about EDII (Lovaye)
-Ask about exiters
+0701 Email d-biolfa facultyRequest.md
+* Forward to associates.md
+* Check about sparkuhl (Ian, Brian)
+* Check about EDII (Lovaye)
 
-## August
+0801 Ask about exiters
+* Get back to September postponers
 
-Get back to September postponers
+0901 Restart week.md
 
-Start week.md
-
-Faculty about Workshops
-
-## September
-
-## October
+1001 Faculty about Workshops
 
 year.md
 
