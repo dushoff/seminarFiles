@@ -1,4 +1,5 @@
 
+Shinichi follow-up
 
 Reach out to Lovaye about Heidi Swanson 
 * Heidi Swanson Laurier (Waterloo)
@@ -6,8 +7,6 @@ Reach out to Lovaye about Heidi Swanson
 Nicole Mideo
 
 Alison Hill
-
-BGSS follow-up
 
 host.md
 exiter.html: exiter.seminar exiter.md
