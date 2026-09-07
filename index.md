@@ -10,6 +10,7 @@ nominees.md ## A list of names
 
 ## Messages to colleagues
 facultyRequest.md
+pdfRequest.md
 nominators.md
 nonMinators.md
 followup.md

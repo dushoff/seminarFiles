@@ -1,25 +1,22 @@
 
-Next week!! 
-host.html: host.seminar host.md
-exiter.html: exiter.seminar exiter.md
+announce.md Queued
 
-reminder.html: reminder.seminar reminder.md
-
-food.html: food.seminar food.md ## for organizers
-
-pizza.html: pizza.seminar pizza.md ## announce yes OR no
-
-Announcement to Susan and Michelle ##
-
-announce.html: announce.seminar announce.md
-
-week.md
-
+food.md Queued
 
 Shinichi follow-up
 
 Reach out to Lovaye about Heidi Swanson 
 * Heidi Swanson Laurier (Waterloo)
+
+reminder.md
+
+pizza.md ## Queued
+
+Announcement to Susan and Michelle ##
+
+announce.md
+
+week.md
 
 Nicole Mideo
 
