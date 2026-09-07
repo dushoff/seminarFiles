@@ -1,16 +1,16 @@
+announce.md Queued
+
 Next week!! 
-host.html: host.seminar host.md
-exiter.html: exiter.seminar exiter.md
+* host.md
+* exiter.md
 
-reminder.html: reminder.seminar reminder.md
+reminder.md
 
-food.html: food.seminar food.md ## for organizers
+food.md ## for organizers
 
-pizza.html: pizza.seminar pizza.md ## announce yes OR no
+pizza.md ## announce yes OR no
 
 Announcement to Susan and Michelle ##
-
-announce.html: announce.seminar announce.md
 
 week.md
 

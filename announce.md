@@ -1,19 +1,14 @@
-Don't edit the .md file
 
-[A-Z][A-Z][A-Z][A-Z]
+/[A-Z][A-Z][A-Z][A-Z]
 
 Biology seminar series, SPEAKER
 
 This week we will have a seminar from [SPEAKER (INSTITUTION)](LINK).
 
-There will be coffee and snacks before the seminar. Please bring your own mug.
+_Thursday 4:00PM, HSC ROOM and XXXXX??? [on zoom (Passcode: cElegans)](https://mcmaster.zoom.us/j/95722718820)_
 
-_Thursday 4:00PM, HSC 1A4 and XXXXX??? [on zoom (Passcode: cElegans)](https://mcmaster.zoom.us/j/95722718820)_
+There will be coffee and snacks at 3:40 PM. Please come early to socialize!, and _please_ bring your own mug
 
 __TITLE__
 
 ABSTRACT
-
-dump.md ## gB
-
-

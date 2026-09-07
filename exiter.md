@@ -1,10 +1,9 @@
-[paste this, don't edit weekly]
 
 Dear XXX:
 
 Looking forward to your seminar next week!
 
-Please send your title and abstract by the end of this week if possible.
+Please send your title and abstract by Thursday night, if possible.
 
 Do you want to have pizza with the grad students? Do you have any topping requests?
 
