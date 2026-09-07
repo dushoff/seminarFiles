@@ -1,5 +1,4 @@
 
-
 update: index.filemerge
 
 ## Basic
@@ -7,11 +6,13 @@ README.md
 TODO.md
 index.md
 
-## Churn
+nominees.md ## A list of names
+
+## Messages to colleagues
 facultyRequest.md
-nominees.md
 nominators.md
 nonMinators.md
+followup.md
 
 ## Periodic
 year.md
