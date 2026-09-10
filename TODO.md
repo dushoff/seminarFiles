@@ -1,16 +1,10 @@
 
-announce.md Queued
-
-food.md Queued
-
 Shinichi follow-up
 
 Reach out to Lovaye about Heidi Swanson 
 * Heidi Swanson Laurier (Waterloo)
 
 reminder.md
-
-pizza.md ## Queued
 
 Announcement to Susan and Michelle ##
 
