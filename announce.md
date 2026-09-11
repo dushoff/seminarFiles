@@ -1,3 +1,4 @@
+3,$! cat > announce.seminar
 
 /[A-Z][A-Z][A-Z][A-Z]
 
@@ -11,4 +12,5 @@ There will be coffee and snacks at 3:40 PM. Please come early to socialize!, and
 
 __TITLE__
 
-ABSTRACT
+abstract.md
+

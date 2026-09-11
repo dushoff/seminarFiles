@@ -1,40 +1,15 @@
 
-Announcement to Susan and Michelle ##
+Clipboard to Susan
 
 announce.md
+
+Title on schedule
 
 week.md
 
 Nicole Mideo
 
 Alison Hill
-
-host.md
-exiter.html: exiter.seminar exiter.md
-
-reminder.html: reminder.seminar reminder.md
-
-food.html: food.seminar food.md ## for organizers
-
-pizza.html: pizza.seminar pizza.md ## announce yes OR no
-
-Announcement to Susan and Michelle ##
-
-announce.html: announce.seminar announce.md
-
-Next week!! 
-host.html: host.seminar host.md
-exiter.html: exiter.seminar exiter.md
-
-reminder.html: reminder.seminar reminder.md
-
-food.html: food.seminar food.md ## for organizers
-
-pizza.html: pizza.seminar pizza.md ## announce yes OR no
-
-Announcement to Susan and Michelle ##
-
-announce.html: announce.seminar announce.md
 
 Network about Shinichi
 
