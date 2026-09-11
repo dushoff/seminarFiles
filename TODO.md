@@ -1,11 +1,4 @@
 
-Shinichi follow-up
-
-Reach out to Lovaye about Heidi Swanson 
-* Heidi Swanson Laurier (Waterloo)
-
-reminder.md
-
 Announcement to Susan and Michelle ##
 
 announce.md
