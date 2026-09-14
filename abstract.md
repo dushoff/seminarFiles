@@ -1,4 +1,3 @@
-
 **The Role of Kaiso in Quadruple-Negative Breast Cancer.**
 
 Triple negative breast cancer (TNBC) is an aggressive subtype defined by the absence of estrogen receptor, progesterone receptor, and HER2, leaving patients with limited targeted therapies and poor clinical outcomes. Notably, TNBC disproportionately affects women of African ancestry (WAA), who experience higher mortality rates compared to white women, despite lower incidence rates, suggesting an ancestral genetic susceptibility.&nbsp;
