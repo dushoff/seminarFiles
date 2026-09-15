@@ -32,26 +32,18 @@ associates.md
 ## Comms
 
 announce.md
-announce.html
-announce.seminar
+abstract.md
 
 exiter.md
-exiter.seminar
 
 food.md
-food.seminar
 
 host.md
-host.html
-host.seminar
 
 pizza.md
-pizza.seminar
-pizza.html
 
 reminder.html
 reminder.md
-reminder.seminar
 
 colleague.md
 
@@ -71,3 +63,6 @@ index.lsd
 up.time
 
 make.log
+
+### Untracked files ### (2)
+
