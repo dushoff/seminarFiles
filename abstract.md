@@ -1,7 +1,14 @@
-**Engineering Nanomedicines to Overcome Biological Barriers**
+**Title:** Engineering Nanomedicines to Overcome Biological Barriers
+
+&nbsp;
+
+**Abstract:**
 
 Nanoparticle-based medicines have emerged as powerful tools for delivering therapeutics to specific tissues while minimizing off-target effects. Despite decades of research, however, many nanoparticle drug delivery systems have failed to translate clinically. A major reason is that the human body has evolved numerous mechanisms that prevent foreign materials from reaching sensitive tissues and cells, and overcoming them requires complex \- often, conflicting \- physicochemical requirements. 
 
 Following administration, nanoparticles must evade clearance mechanisms, circulate effectively through the body, cross biological interfaces such as the vascular endothelium, penetrate target tissues, and ultimately interact with specific cell populations. Successfully navigating this "drug delivery pathway" requires careful control of nanoparticle size, surface chemistry, composition, and pharmacokinetic behaviour.
 
-I will discuss how nanoparticle-based medicines are designed to overcome these biological challenges, drawing on examples from both academic research and industrial drug development. Particular emphasis will be placed on the delivery of therapeutics to solid tumours, where complex tissue architecture and heterogeneous microenvironments create substantial barriers to efficacious treatment. Finally, I will discuss how concepts developed in basic research are translated into clinically and commercially viable drug products, and how the priorities of drug development evolve from understanding biological mechanisms to achieving robust, scalable manufacturing. Together, these examples illustrate how advances in drug delivery increasingly depend on integrating knowledge across biology, pharmacology, chemistry, and engineering.
+In this seminar, I will discuss how nanoparticle-based medicines are designed to overcome these biological challenges, drawing on examples from both academic research and industrial drug development. Particular emphasis will be placed on the delivery of therapeutics to solid tumours, where complex tissue architecture and heterogeneous microenvironments create substantial barriers to efficacious treatment. Finally, I will discuss how concepts developed in basic research are translated into clinically and commercially viable drug products, and how the priorities of drug development evolve from understanding biological mechanisms to achieving robust, scalable manufacturing. Together, these examples illustrate how advances in drug delivery increasingly depend on integrating knowledge across biology, pharmacology, chemistry, and engineering.
+
+Dr. Matthew Campea, Cytiva Nanomedicines
+
