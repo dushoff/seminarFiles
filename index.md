@@ -40,6 +40,9 @@ food.md
 
 host.md
 
+## Drafted for Campea, short notice 2026. But didn't really send most of it, worked through the host.
+selfhost.md
+
 pizza.md
 
 reminder.html
