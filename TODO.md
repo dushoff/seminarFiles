@@ -1,5 +1,4 @@
 
-<<<<<<< HEAD
 host.md
 
 Shinichi follow-up
@@ -7,7 +6,6 @@ Shinichi follow-up
 Reach out to Lovaye about Heidi Swanson 
 * Heidi Swanson Laurier (Waterloo)
 
-=======
 Next week!! 
 * host.md
 * exiter.md
@@ -33,16 +31,12 @@ Title on schedule
 week.md
 
 
->>>>>>> 47b77e7b223dcb68292ec1e5d05d2912f6da6e92
 Nicole Mideo
 
 Alison Hill
 
-<<<<<<< HEAD
-=======
 Network about Shinichi
 
->>>>>>> 47b77e7b223dcb68292ec1e5d05d2912f6da6e92
 0915 Sharmistha follow-up
 
 week.md
