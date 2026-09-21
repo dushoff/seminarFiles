@@ -1,9 +1,11 @@
 
+Seminar pizza this Thursday
+
 Please join for pizza with
 exiter
 seminar speaker
 BGSS invited seminar speaker
-Barack Hussein Obama
+BARACK HUSSEIN OBAMA
 
 Thursday noon LSB Lobby and Room B130A
 

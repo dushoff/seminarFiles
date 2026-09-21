@@ -6,12 +6,6 @@ Reach out to Lovaye about Heidi Swanson
 
 Clipboard to Susan
 
-reminder.md
-
-food.md ## for organizers
-
-pizza.md ## announce yes OR no
-
 Zoom record to Susan
 * zoomrecord.md
 
@@ -26,12 +20,9 @@ Title on schedule
 
 week.md
 
-
 Nicole Mideo
 
 Alison Hill
-
-Network about Shinichi
 
 0915 Sharmistha follow-up
 
