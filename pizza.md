@@ -7,7 +7,9 @@ seminar speaker
 BGSS invited seminar speaker
 BARACK HUSSEIN OBAMA
 
-Thursday noon LSB Lobby and Room B130A
+Thursday noon LSB Lobby and Room B130A.
+
+Your mac card should give you access to the lower greenhouse door. There should also be BGSS members around to help you get in (knock on that door if necessary). To request access if your card does not work, contact Michelle (copied).
 
 JD
 
