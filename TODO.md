@@ -1,12 +1,9 @@
 
-pizza.md
 
 Shinichi follow-up
 
 Reach out to Lovaye about Heidi Swanson 
 * Heidi Swanson Laurier (Waterloo)
-
-Clipboard to Susan
 
 Zoom record to Susan
 * zoomrecord.md
