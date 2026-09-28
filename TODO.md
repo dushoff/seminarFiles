@@ -4,14 +4,26 @@ Shinichi follow-up
 Reach out to Lovaye about Heidi Swanson 
 * Heidi Swanson Laurier (Waterloo)
 
+reminder.md
+
+food.md ## for organizers
+
+pizza.md ## announce yes OR no
+
 Zoom record to Susan
 * zoomrecord.md
+
+Announcement to Susan and Michelle ##
+* abstract.md
 
 Clipboard to Susan
 
 announce.md
 
+Title on schedule
+
 week.md
+
 
 Nicole Mideo
 
