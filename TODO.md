@@ -1,18 +1,5 @@
 
-announce.md
-
-Title on schedule
-
-Shinichi follow-up
-
-Reach out to Lovaye about Heidi Swanson 
-* Heidi Swanson Laurier (Waterloo)
-
-reminder.md
-
-food.md ## for organizers
-
-pizza.md ## announce yes OR no
+reminder.md – queued
 
 Zoom record to Susan
 * zoomrecord.md
@@ -28,6 +15,14 @@ Title on schedule
 
 week.md
 
+1015
+
+Heidi Swanson Laurier (Waterloo)
+* Lovaye 2026 Oct 06 (Tue)
+
+1101
+
+Shinichi follow-up
 
 Nicole Mideo
 

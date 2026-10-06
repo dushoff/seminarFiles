@@ -8,6 +8,10 @@ food.md ## for organizers
 
 pizza.md ## announce yes OR no
 
+logistics.md
+
+Seminar
+
 Zoom record to Susan
 * zoomrecord.md
 
