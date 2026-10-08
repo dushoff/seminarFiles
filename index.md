@@ -65,7 +65,10 @@ go.log
 index.lsd
 up.time
 
-make.log
+### Untracked files ### (5)
 
-### Untracked files ### (2)
-
+* bioSeminar.md
+* announce.seminar
+* host.html
+* announce.html
+* zoomrecord.md
