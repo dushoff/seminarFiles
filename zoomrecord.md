@@ -1,6 +1,6 @@
 
 ## Change dates 7C-x
-https://mcmaster.zoom.us/account/report?isPersonal=true#/usageReports/historyMeeting?dateFrom=2026-09-23&dateTo=2026-09-24
+https://mcmaster.zoom.us/account/report?isPersonal=true#/usageReports/historyMeeting?dateFrom=2026-10-7&dateTo=2026-10-08
 * click on number of participants
 
 Electronic seminar attendees this week

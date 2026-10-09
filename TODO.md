@@ -1,12 +1,4 @@
 
-reminder.md – queued
-
-Zoom record to Susan
-* zoomrecord.md
-
-Announcement to Susan and Michelle ##
-* abstract.md
-
 Clipboard to Susan
 
 announce.md
