@@ -19,9 +19,9 @@ Thanks again for hosting GUEST.
 
 Can you get a title and abstract from them, so I can announce? For publicity, this should be a week or a little more in advance.
 
-We have a limited budget this year, so we aren't routinely doing catered coffee and cookies, which are over-priced. Let me know if you want to pay for catering, or donate your own coffee and cookies (PDA and some grants can pay for this). Otherwise, we will do our own coffee and cookies in the room. 
+We have a limited budget this year, so we aren't routinely doing catered coffee and cookies, which are over-priced. You are encouraged (but not required) to: donate your own cookies; pay for catering; or contribute to the seminar-supplied cookies (PDA and some grants can pay for this). Let me know if you can contribute; it can be as simple as allowing us to journal a small amount to your PDA.
 
-The graduate students strongly support pizza with the speaker, so I've been funding that for now. If you want a more ambitious lunch, we could split the cost of that.
+The graduate students strongly support pizza with the speaker. We can fund that, or split it, or we could contribute if you want to do something more ambitious.
 
 Can you find out from GUEST if hse can join the students in the lounge at noon, if hse is amenable to having the meeting broadcast on Zoom, and if hse is ok with having the Zoom meeting recorded? Also, let them know that the office can pay for their parking.
 

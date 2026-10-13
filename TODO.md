@@ -1,5 +1,14 @@
-
 Clipboard to Susan
+
+Heidi Swanson Laurier (Waterloo)
+* Lovaye 2026 Oct 06 (Tue)
+
+Next week!! 
+* host.md
+* exiter.md
+
+Announcement to Susan and Michelle ##
+* abstract.md
 
 announce.md
 
@@ -7,10 +16,6 @@ Title on schedule
 
 week.md
 
-1015
-
-Heidi Swanson Laurier (Waterloo)
-* Lovaye 2026 Oct 06 (Tue)
 
 1101
 
