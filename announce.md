@@ -1,4 +1,5 @@
-## F11, to get started in other file
+## F11, to get started in other file here in this window
+## or regular paste to do it in main window
 3,$! cat > announce.seminar
 
 /[A-Z][A-Z][A-Z][A-Z]
