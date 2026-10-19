@@ -6,6 +6,7 @@ Heidi Swanson Laurier (Waterloo)
 Next week!! 
 * host.md
 * exiter.md
+* self.md
 
 Announcement to Susan and Michelle ##
 * abstract.md
@@ -15,7 +16,6 @@ announce.md
 Title on schedule
 
 week.md
-
 
 1101
 
