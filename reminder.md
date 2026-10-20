@@ -1,5 +1,6 @@
 
-PASTE, QUEUE and CHECK
+PASTE, CHECK, QUEUE
+
 /XXX
 
 A reminder about today's exciting Biology seminar in XXX HSC 1A5 at 4:00PM!
