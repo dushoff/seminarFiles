@@ -2,13 +2,7 @@
 Heidi Swanson Laurier (Waterloo)
 * Lovaye 2026 Oct 06 (Tue)
 
-Vanessa
-
-Title on schedule
-
-Next week!! 
-* host.md
-* exiter.md
+Vanessa E.
 
 pizza.md ## announce yes OR no
 
