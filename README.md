@@ -1,3 +1,4 @@
+<!-- vim: set nowrap: -->
 
 F2027 (folder/planning/sharing)
 * https://drive.google.com/drive/folders/1poBR0wpcMSmR8HFFmKHg_MyspfDpSkjE
