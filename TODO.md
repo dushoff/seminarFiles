@@ -6,8 +6,6 @@ Vanessa E.
 
 Clipboard to Susan
 
-announce.md
-
 Title on schedule
 
 week.md
