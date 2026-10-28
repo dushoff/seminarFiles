@@ -1,9 +1,9 @@
 
 CHECK
 
-:%s/GUEST/Dr. Bidochka/g
+:%s/GUEST/Dr. Libby/g
 :%s/ROOM/1A5/g
-:%s/HOST/JP/g
+:%s/HOST/Muhammed/g
 
 :%s/hse/she/g
 :%s/their/her/g
@@ -12,6 +12,8 @@ CHECK
 :%s/hse/he/g
 :%s/their/his/g
 :%s/them/him/g
+
+Next week's seminar
 
 Dear HOST:
 

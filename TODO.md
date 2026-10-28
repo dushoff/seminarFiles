@@ -4,17 +4,9 @@ Heidi Swanson Laurier (Waterloo)
 
 Vanessa E.
 
-Title on schedule
-
 Next week!! 
 * host.md
 * exiter.md
-
-reminder.md
-
-food.md ## for organizers
-
-pizza.md ## announce yes OR no
 
 logistics.md
 
