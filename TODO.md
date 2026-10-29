@@ -4,13 +4,8 @@ Heidi Swanson Laurier (Waterloo)
 
 Vanessa E.
 
-Next week!! 
-* host.md
-* exiter.md
-
-logistics.md
-
 Seminar
+* zoomMessage.md
 
 Zoom record to Susan
 * zoomrecord.md
