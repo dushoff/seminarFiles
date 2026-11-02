@@ -4,14 +4,8 @@ Heidi Swanson Laurier (Waterloo)
 
 Vanessa E.
 
-Seminar
-* zoomMessage.md
-
 Zoom record to Susan
 * zoomrecord.md
-
-Announcement to Susan and Michelle ##
-* abstract.md
 
 Clipboard to Susan
 
