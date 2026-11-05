@@ -13,6 +13,8 @@ logistics.md
 Seminar
 * zoomMessage.md
 
+Next week follow-up
+
 Zoom record to Susan
 * zoomrecord.md
 
