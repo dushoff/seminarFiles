@@ -11,7 +11,10 @@ pizza.md ## announce yes OR no
 logistics.md
 
 Seminar
+* snacks ready?
+* clipboard
 * zoomMessage.md
+* clipboard
 
 Next week follow-up
 
