@@ -5,7 +5,6 @@ https://mcmaster.zoom.us/account/report?isPersonal=true#/usageReports/historyMee
 
 Electronic seminar attendees this week
 * tmp.scr
-:%s/,.*// 
-:%s/,.*// 
+%s/,.*// 
 
 

@@ -4,6 +4,36 @@ Heidi Swanson Laurier (Waterloo)
 
 Vanessa E.
 
+Clipboard to Susan
+
+logistics.md
+
+Seminar
+* snacks ready?
+* clipboard
+* zoomMessage.md
+* clipboard
+
+Clipboard to Susan
+
+Next week!! 
+* host.md
+* exiter.md
+
+reminder.md
+
+food.md ## for organizers
+
+pizza.md ## announce yes OR no
+
+logistics.md
+
+Seminar
+* snacks ready?
+* clipboard
+* zoomMessage.md
+* clipboard
+
 Zoom record to Susan
 * zoomrecord.md
 
@@ -17,6 +47,8 @@ announce.md
 Title on schedule
 
 week.md
+
+
 
 ## 1101
 
