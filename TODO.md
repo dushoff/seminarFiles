@@ -4,10 +4,6 @@ Heidi Swanson Laurier (Waterloo)
 
 Vanessa E.
 
-Clipboard to Susan
-
-logistics.md
-
 Seminar
 * snacks ready?
 * clipboard
