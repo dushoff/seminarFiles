@@ -4,10 +4,7 @@ Heidi Swanson Laurier (Waterloo)
 
 Vanessa E.
 
-Seminar
-* snacks ready?
-* clipboard
-* zoomMessage.md
+zoomMessage.md
 * clipboard
 
 Clipboard to Susan
