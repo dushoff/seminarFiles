@@ -1,55 +1,21 @@
 
-Heidi Swanson Laurier (Waterloo)
-* Lovaye 2026 Oct 06 (Tue)
-
-Vanessa E.
-
-zoomMessage.md
-* clipboard
-
-Clipboard to Susan
-
-Next week!! 
-* host.md
-* exiter.md
-
-reminder.md
-
-food.md ## for organizers
-
-pizza.md ## announce yes OR no
-
-logistics.md
-
-Seminar
-* snacks ready?
-* clipboard
-* zoomMessage.md
-* clipboard
-
-Zoom record to Susan
-* zoomrecord.md
-
-Announcement to Susan and Michelle ##
-* abstract.md
-
-Clipboard to Susan
-
-announce.md
-
-Title on schedule
-
-week.md
-
-
-
-## 1101
-
 Shinichi follow-up
 
 Nicole Mideo
 
 Alison Hill
+
+week.md
+
+Heidi Swanson Laurier (Waterloo)
+* Lovaye 2026 Oct 06 (Tue)
+
+Vanessa E.
+
+Zoom record to Susan
+* zoomrecord.md
+
+Clipboard to Susan
 
 week.md
 
