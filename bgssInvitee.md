@@ -24,5 +24,5 @@ Please let me know if you are interested, and what date or dates might work.
 
 Sincerely,
 
-Jonathan Dushoff
+Jonathan Dushoff, on behalf of the seminar organizing committee
 

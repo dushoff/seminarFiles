@@ -7,7 +7,7 @@ Alison Hill
 
 ----------------------------------------------------------------------
 
-Dr. Joe Northrup (Peterborough)
+Dr. Joe Northrup (Peterborough) ## Pung 2026 Nov 23
 
 Dr. Nancy Chen (Los Angeles, USA)
 Dr. Anne Dalziel (Halifax)
@@ -17,25 +17,6 @@ Dr. Brendan Dunphy (Auckland, NZ. *IF IT CAN BE OVER ZOOM*)
 Dr. Aaron Shafer (Peterborough), Dr. Andreas Leyland (Guelph), and Dr. Andy Turko (Guelph).
 
 ----------------------------------------------------------------------
-
-
-Next week!! 
-* host.md
-* exiter.md
-
-reminder.md
-
-food.md ## for organizers
-
-pizza.md ## announce yes OR no
-
-logistics.md
-
-Seminar
-* snacks ready?
-* clipboard
-* zoomMessage.md
-* clipboard
 
 Next week follow-up
 
