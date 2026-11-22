@@ -5,7 +5,54 @@ Nicole Mideo
 
 Alison Hill
 
+----------------------------------------------------------------------
+
+Dr. Joe Northrup (Peterborough)
+
+Dr. Nancy Chen (Los Angeles, USA)
+Dr. Anne Dalziel (Halifax)
+Dr. Corey Krabbenhoft (Buffalo, USA)
+Dr. Brendan Dunphy (Auckland, NZ. *IF IT CAN BE OVER ZOOM*)
+
+Dr. Aaron Shafer (Peterborough), Dr. Andreas Leyland (Guelph), and Dr. Andy Turko (Guelph).
+
+----------------------------------------------------------------------
+
+
+Next week!! 
+* host.md
+* exiter.md
+
+reminder.md
+
+food.md ## for organizers
+
+pizza.md ## announce yes OR no
+
+logistics.md
+
+Seminar
+* snacks ready?
+* clipboard
+* zoomMessage.md
+* clipboard
+
+Next week follow-up
+
+Zoom record to Susan
+* zoomrecord.md
+
+Announcement to Susan and Michelle ##
+* abstract.md
+
+Clipboard to Susan
+
+announce.md
+
+Title on schedule
+
 week.md
+
 
 Heidi Swanson Laurier (Waterloo)
 * Lovaye 2026 Oct 06 (Tue)

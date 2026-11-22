@@ -1,5 +1,4 @@
 
-
 Seminar invitation from McMaster Biology
 
 Dear Dr. XXX:
@@ -7,8 +6,9 @@ Dear Dr. XXX:
 It is my pleasure to invite you to give a talk as part of our Biology Seminar Series at McMaster University.
 
 Graduate students in the department were asked to nominate speakers whose work has been impactful and who they felt they would benefit from interacting with.
-
 CHECK On a very distinguished list, you were the first choice.
+
+We are hoping you could join us next semester; our seminars are on Thursdays from 4-5pm. If interested, please let me know if [any of the available dates on our schedule work](https://docs.google.com/spreadsheets/d/1x1raDZd9MWKwkSQIDTUqKhzL7N9PVT6PFTybJYodEbM) for you. 
 
 CHECK I hope that you will be willing to give a seminar, either virtually or in person. Our seminars are on Thursdays from 4-5pm. Currently available dates can be seen on the schedule LINK.
 
