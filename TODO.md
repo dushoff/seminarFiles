@@ -24,22 +24,14 @@ Clipboard to Susan
 
 announce.md
 
-Title on schedule
-
-week.md
-
-
 Heidi Swanson Laurier (Waterloo)
 * Lovaye 2026 Oct 06 (Tue)
 
 Vanessa E.
 
-Zoom record to Susan
-* zoomrecord.md
-
-Clipboard to Susan
-
 week.md
+
+----------------------------------------------------------------------
 
 0401 make room reservations 
 
