@@ -1,4 +1,9 @@
 
+Heidi Swanson Laurier (Waterloo)
+* Lovaye 2026 Oct 06 (Tue)
+
+Vanessa E.
+
 Shinichi follow-up
 
 Nicole Mideo
@@ -8,6 +13,7 @@ Alison Hill
 ----------------------------------------------------------------------
 
 Dr. Joe Northrup (Peterborough) ## Pung 2026 Nov 23
+* Busy through end of year
 
 Dr. Nancy Chen (Los Angeles, USA)
 Dr. Anne Dalziel (Halifax)
@@ -23,11 +29,6 @@ Next week follow-up
 Clipboard to Susan
 
 announce.md
-
-Heidi Swanson Laurier (Waterloo)
-* Lovaye 2026 Oct 06 (Tue)
-
-Vanessa E.
 
 week.md
 
